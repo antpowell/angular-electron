@@ -17,8 +17,6 @@ import {
 } from 'angular-svg-round-progressbar';
 
 
-
-
 @NgModule({
   declarations: [
     AppComponent
@@ -31,4 +29,5 @@ import {
   providers: [],
   bootstrap: [AppComponent]
 })
+
 export class AppModule {}
